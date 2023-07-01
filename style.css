@@ -5,8 +5,7 @@ html {
 body {
   display: grid;
   position: center;
-  width: 100%;
-
+  margin: 0px;
 }
 
 .content {
@@ -22,7 +21,7 @@ li {
   font-family: 'Courier New', Courier, monospace;
 }
 
-nav {
+#nav {
   height: 40px;
   width: 100%;
   align-items: center;
