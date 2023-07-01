@@ -38,6 +38,7 @@ i {
 
 .portrait {
   width: 150px;
+  border-radius: 20%;
 }
 
 .tech {
